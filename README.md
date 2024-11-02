@@ -1,42 +1,37 @@
-# Useless Games
+# USELESS GAMES
 
 ![Banner](assets/readme-bg.jpg)
 
-Welcome to **Useless Games**, a collection of fun and engaging games developed by the **Kattaminds** team. Explore a variety of games, each with a unique cyberpunk theme, designed for entertainment and relaxation.
+Welcome to the **Useless Games** project! This collection of fun, experimental games is developed by the **Kattaminds** team. The project showcases various simple yet engaging games that highlight creativity and fun without any serious purpose.
 
-## Table of Contents
+## Games Included
 
-- [About](#about)
-- [Games](#games)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributors](#contributors)
-- [License](#license)
+- 2048
+- Connect Four
+- Hangman
+- Memory Match
+- Rock-Paper-Scissors
+- Snake Game
+- Tic-Tac-Toe
+- Platform Jumper
+- Pong
 
-## About
+## Live Demo
 
-**Useless Games** is a project aimed at creating a collection of simple yet enjoyable games that you can play in your browser. The project is a part of our 'Useless Projects' event and showcases our creativity and coding skills.
+You can play all the games at our website: [Useless Games](https://kattaminds.github.io/useless-games/)
 
-## Games
+## Team Members
 
-Here are the games included in this collection:
+- Aghin Khalid
+- Udayasooryan
+- Sreejith
 
-- [2048](https://kattaminds.github.io/useless-games/2048)
-- [Connect Four](https://kattaminds.github.io/useless-games/connect-four)
-- [Hangman](https://kattaminds.github.io/useless-games/hangman)
-- [Memory Match](https://kattaminds.github.io/useless-games/memory-match)
-- [Rock-Paper-Scissors](https://kattaminds.github.io/useless-games/rock-paper-scissors)
-- [Snake Game](https://kattaminds.github.io/useless-games/snake)
-- [Tic-Tac-Toe](https://kattaminds.github.io/useless-games/tic-tac-toe)
-- [Platform Jumper](https://kattaminds.github.io/useless-games/platform-jumper)
-- [Pong](https://kattaminds.github.io/useless-games/pong)
+## Contributing
 
-## Installation
+We welcome contributions to enhance this project. Feel free to fork the repository and submit pull requests.
 
-To run these games locally, clone the repository and open the `index.html` file in your web browser.
+## License
 
-```bash
-git clone https://github.com/kattaminds/useless-games.git
-cd useless-games
-open index.html
+This project is open-source and available under the [MIT License](LICENSE).
 
+Enjoy playing!
